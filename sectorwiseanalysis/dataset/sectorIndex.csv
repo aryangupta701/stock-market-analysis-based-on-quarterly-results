@@ -1,0 +1,330 @@
+,SYMBOL,SECTOR,industry
+0,AXISBANK,_privatebank,Financial Services
+1,BANDHANBNK,_privatebank,Financial Services
+2,CUB,_privatebank,Financial Services
+3,FEDERALBNK,_privatebank,Financial Services
+4,HDFCBANK,_privatebank,Financial Services
+5,ICICIBANK,_privatebank,Financial Services
+6,IDFCFIRSTB,_privatebank,Financial Services
+7,INDUSINDBK,_privatebank,Financial Services
+8,KOTAKBANK,_privatebank,Financial Services
+9,RBLBANK,_privatebank,Financial Services
+10,ASHOKLEY,auto,Capital Goods
+11,BAJAJ-AUTO,auto,Automobile and Auto Components
+12,BALKRISIND,auto,Automobile and Auto Components
+13,BHARATFORG,auto,Capital Goods
+14,BOSCHLTD,auto,Automobile and Auto Components
+15,EICHERMOT,auto,Automobile and Auto Components
+16,HEROMOTOCO,auto,Automobile and Auto Components
+17,MRF,auto,Automobile and Auto Components
+18,M&M,auto,Automobile and Auto Components
+19,MARUTI,auto,Automobile and Auto Components
+20,MOTHERSON,auto,Automobile and Auto Components
+21,SONACOMS,auto,Automobile and Auto Components
+22,TVSMOTOR,auto,Automobile and Auto Components
+23,TATAMOTORS,auto,Automobile and Auto Components
+24,TIINDIA,auto,Automobile and Auto Components
+25,AUBANK,bank,Financial Services
+26,AXISBANK,bank,Financial Services
+27,BANDHANBNK,bank,Financial Services
+28,BANKBARODA,bank,Financial Services
+29,FEDERALBNK,bank,Financial Services
+30,HDFCBANK,bank,Financial Services
+31,ICICIBANK,bank,Financial Services
+32,IDFCFIRSTB,bank,Financial Services
+33,INDUSINDBK,bank,Financial Services
+34,KOTAKBANK,bank,Financial Services
+35,PNB,bank,Financial Services
+36,SBIN,bank,Financial Services
+37,AMBER,consumerdurables,Consumer Durables
+38,BATAINDIA,consumerdurables,Consumer Durables
+39,BLUESTARCO,consumerdurables,Consumer Durables
+40,CROMPTON,consumerdurables,Consumer Durables
+41,DIXON,consumerdurables,Consumer Durables
+42,HAVELLS,consumerdurables,Consumer Durables
+43,KAJARIACER,consumerdurables,Consumer Durables
+44,ORIENTELEC,consumerdurables,Consumer Durables
+45,RAJESHEXPO,consumerdurables,Consumer Durables
+46,RELAXO,consumerdurables,Consumer Durables
+47,TTKPRESTIG,consumerdurables,Consumer Durables
+48,TITAN,consumerdurables,Consumer Durables
+49,VGUARD,consumerdurables,Consumer Durables
+50,VOLTAS,consumerdurables,Consumer Durables
+51,WHIRLPOOL,consumerdurables,Consumer Durables
+52,AXISBANK,finance,Financial Services
+53,BAJFINANCE,finance,Financial Services
+54,BAJAJFINSV,finance,Financial Services
+55,CHOLAFIN,finance,Financial Services
+56,HDFCAMC,finance,Financial Services
+57,HDFCBANK,finance,Financial Services
+58,HDFCLIFE,finance,Financial Services
+59,HDFC,finance,Financial Services
+60,ICICIBANK,finance,Financial Services
+61,ICICIGI,finance,Financial Services
+62,ICICIPRULI,finance,Financial Services
+63,IEX,finance,Financial Services
+64,KOTAKBANK,finance,Financial Services
+65,MUTHOOTFIN,finance,Financial Services
+66,PFC,finance,Financial Services
+67,RECLTD,finance,Financial Services
+68,SBICARD,finance,Financial Services
+69,SBILIFE,finance,Financial Services
+70,SRTRANSFIN,finance,Financial Services
+71,SBIN,finance,Financial Services
+72,AXISBANK,financialservices25-50,FINANCIAL SERVICES
+73,BAJFINANCE,financialservices25-50,FINANCIAL SERVICES
+74,BAJAJFINSV,financialservices25-50,FINANCIAL SERVICES
+75,BAJAJHLDNG,financialservices25-50,FINANCIAL SERVICES
+76,CHOLAFIN,financialservices25-50,FINANCIAL SERVICES
+77,HDFCAMC,financialservices25-50,FINANCIAL SERVICES
+78,HDFCBANK,financialservices25-50,FINANCIAL SERVICES
+79,HDFCLIFE,financialservices25-50,FINANCIAL SERVICES
+80,HDFC,financialservices25-50,FINANCIAL SERVICES
+81,ICICIBANK,financialservices25-50,FINANCIAL SERVICES
+82,ICICIGI,financialservices25-50,FINANCIAL SERVICES
+83,ICICIPRULI,financialservices25-50,FINANCIAL SERVICES
+84,KOTAKBANK,financialservices25-50,FINANCIAL SERVICES
+85,M&MFIN,financialservices25-50,FINANCIAL SERVICES
+86,PEL,financialservices25-50,FINANCIAL SERVICES
+87,PFC,financialservices25-50,FINANCIAL SERVICES
+88,RECLTD,financialservices25-50,FINANCIAL SERVICES
+89,SBILIFE,financialservices25-50,FINANCIAL SERVICES
+90,SRTRANSFIN,financialservices25-50,FINANCIAL SERVICES
+91,SBIN,financialservices25-50,FINANCIAL SERVICES
+92,AAVAS,financialservicesexbank_,FINANCIAL SERVICES
+93,ABCAPITAL,financialservicesexbank_,FINANCIAL SERVICES
+94,BAJFINANCE,financialservicesexbank_,FINANCIAL SERVICES
+95,BAJAJFINSV,financialservicesexbank_,FINANCIAL SERVICES
+96,BAJAJHLDNG,financialservicesexbank_,FINANCIAL SERVICES
+97,CHOLAFIN,financialservicesexbank_,FINANCIAL SERVICES
+98,DHANI,financialservicesexbank_,FINANCIAL SERVICES
+99,GICRE,financialservicesexbank_,FINANCIAL SERVICES
+100,HDFCAMC,financialservicesexbank_,FINANCIAL SERVICES
+101,HDFCLIFE,financialservicesexbank_,FINANCIAL SERVICES
+102,HDFC,financialservicesexbank_,FINANCIAL SERVICES
+103,ICICIGI,financialservicesexbank_,FINANCIAL SERVICES
+104,ICICIPRULI,financialservicesexbank_,FINANCIAL SERVICES
+105,IDFC,financialservicesexbank_,FINANCIAL SERVICES
+106,IBULHSGFIN,financialservicesexbank_,FINANCIAL SERVICES
+107,IEX,financialservicesexbank_,FINANCIAL SERVICES
+108,L&TFH,financialservicesexbank_,FINANCIAL SERVICES
+109,LICHSGFIN,financialservicesexbank_,FINANCIAL SERVICES
+110,M&MFIN,financialservicesexbank_,FINANCIAL SERVICES
+111,MANAPPURAM,financialservicesexbank_,FINANCIAL SERVICES
+112,MFSL,financialservicesexbank_,FINANCIAL SERVICES
+113,MCX,financialservicesexbank_,FINANCIAL SERVICES
+114,MUTHOOTFIN,financialservicesexbank_,FINANCIAL SERVICES
+115,PEL,financialservicesexbank_,FINANCIAL SERVICES
+116,PFC,financialservicesexbank_,FINANCIAL SERVICES
+117,RECLTD,financialservicesexbank_,FINANCIAL SERVICES
+118,SBICARD,financialservicesexbank_,FINANCIAL SERVICES
+119,SBILIFE,financialservicesexbank_,FINANCIAL SERVICES
+120,SRTRANSFIN,financialservicesexbank_,FINANCIAL SERVICES
+121,SUNDARMFIN,financialservicesexbank_,FINANCIAL SERVICES
+122,BRITANNIA,fmcg,Fast Moving Consumer Goods
+123,COLPAL,fmcg,Fast Moving Consumer Goods
+124,DABUR,fmcg,Fast Moving Consumer Goods
+125,EMAMILTD,fmcg,Fast Moving Consumer Goods
+126,GODREJCP,fmcg,Fast Moving Consumer Goods
+127,HINDUNILVR,fmcg,Fast Moving Consumer Goods
+128,ITC,fmcg,Fast Moving Consumer Goods
+129,MARICO,fmcg,Fast Moving Consumer Goods
+130,NESTLEIND,fmcg,Fast Moving Consumer Goods
+131,PGHH,fmcg,Fast Moving Consumer Goods
+132,RADICO,fmcg,Fast Moving Consumer Goods
+133,TATACONSUM,fmcg,Fast Moving Consumer Goods
+134,UBL,fmcg,Fast Moving Consumer Goods
+135,MCDOWELL-N,fmcg,Fast Moving Consumer Goods
+136,VBL,fmcg,Fast Moving Consumer Goods
+137,ABBOTINDIA,healthcare,Healthcare
+138,ALKEM,healthcare,Healthcare
+139,APOLLOHOSP,healthcare,Healthcare
+140,AUROPHARMA,healthcare,Healthcare
+141,BIOCON,healthcare,Healthcare
+142,CIPLA,healthcare,Healthcare
+143,DIVISLAB,healthcare,Healthcare
+144,LALPATHLAB,healthcare,Healthcare
+145,DRREDDY,healthcare,Healthcare
+146,GLAND,healthcare,Healthcare
+147,GLENMARK,healthcare,Healthcare
+148,GRANULES,healthcare,Healthcare
+149,IPCALAB,healthcare,Healthcare
+150,LAURUSLABS,healthcare,Healthcare
+151,LUPIN,healthcare,Healthcare
+152,METROPOLIS,healthcare,Healthcare
+153,SUNPHARMA,healthcare,Healthcare
+154,SYNGENE,healthcare,Healthcare
+155,TORNTPHARM,healthcare,Healthcare
+156,ZYDUSLIFE,healthcare,Healthcare
+157,COFORGE,it,Information Technology
+158,HCLTECH,it,Information Technology
+159,INFY,it,Information Technology
+160,LTTS,it,Information Technology
+161,LTIM,it,Information Technology
+162,MPHASIS,it,Information Technology
+163,PERSISTENT,it,Information Technology
+164,TCS,it,Information Technology
+165,TECHM,it,Information Technology
+166,WIPRO,it,Information Technology
+167,DISHTV,media,Media Entertainment & Publication
+168,HATHWAY,media,Media Entertainment & Publication
+169,INOXLEISUR,media,Media Entertainment & Publication
+170,NAZARA,media,Media Entertainment & Publication
+171,NETWORK18,media,Media Entertainment & Publication
+172,PVR,media,Media Entertainment & Publication
+173,SAREGAMA,media,Media Entertainment & Publication
+174,SUNTV,media,Media Entertainment & Publication
+175,TV18BRDCST,media,Media Entertainment & Publication
+176,ZEEL,media,Media Entertainment & Publication
+177,APLAPOLLO,metal,Capital Goods
+178,ADANIENT,metal,Metals & Mining
+179,HINDALCO,metal,Metals & Mining
+180,HINDCOPPER,metal,Metals & Mining
+181,HINDZINC,metal,Metals & Mining
+182,JSWSTEEL,metal,Metals & Mining
+183,JSL,metal,Metals & Mining
+184,JINDALSTEL,metal,Metals & Mining
+185,MOIL,metal,Metals & Mining
+186,NATIONALUM,metal,Metals & Mining
+187,RATNAMANI,metal,Capital Goods
+188,SAIL,metal,Metals & Mining
+189,TATASTEEL,metal,Metals & Mining
+190,VEDL,metal,Metals & Mining
+191,WELCORP,metal,Capital Goods
+192,AUBANK,midsmallfinancailservice_,Financial Services
+193,AAVAS,midsmallfinancailservice_,Financial Services
+194,ABCAPITAL,midsmallfinancailservice_,Financial Services
+195,BSE,midsmallfinancailservice_,Financial Services
+196,CRISIL,midsmallfinancailservice_,Financial Services
+197,CANFINHOME,midsmallfinancailservice_,Financial Services
+198,CANBK,midsmallfinancailservice_,Financial Services
+199,CDSL,midsmallfinancailservice_,Financial Services
+200,CHOLAHLDNG,midsmallfinancailservice_,Financial Services
+201,CUB,midsmallfinancailservice_,Financial Services
+202,CAMS,midsmallfinancailservice_,Financial Services
+203,FEDERALBNK,midsmallfinancailservice_,Financial Services
+204,IDFCFIRSTB,midsmallfinancailservice_,Financial Services
+205,IDFC,midsmallfinancailservice_,Financial Services
+206,IBULHSGFIN,midsmallfinancailservice_,Financial Services
+207,IEX,midsmallfinancailservice_,Financial Services
+208,L&TFH,midsmallfinancailservice_,Financial Services
+209,LICHSGFIN,midsmallfinancailservice_,Financial Services
+210,M&MFIN,midsmallfinancailservice_,Financial Services
+211,MANAPPURAM,midsmallfinancailservice_,Financial Services
+212,MFSL,midsmallfinancailservice_,Financial Services
+213,MCX,midsmallfinancailservice_,Financial Services
+214,NAM-INDIA,midsmallfinancailservice_,Financial Services
+215,POLICYBZR,midsmallfinancailservice_,Financial Services
+216,PFC,midsmallfinancailservice_,Financial Services
+217,RBLBANK,midsmallfinancailservice_,Financial Services
+218,RECLTD,midsmallfinancailservice_,Financial Services
+219,SRTRANSFIN,midsmallfinancailservice_,Financial Services
+220,SUNDARMFIN,midsmallfinancailservice_,Financial Services
+221,YESBANK,midsmallfinancailservice_,Financial Services
+222,ABBOTINDIA,midsmallhealthcare_,Healthcare
+223,AJANTPHARM,midsmallhealthcare_,Healthcare
+224,APLLTD,midsmallhealthcare_,Healthcare
+225,ALKEM,midsmallhealthcare_,Healthcare
+226,AUROPHARMA,midsmallhealthcare_,Healthcare
+227,LALPATHLAB,midsmallhealthcare_,Healthcare
+228,ERIS,midsmallhealthcare_,Healthcare
+229,FORTIS,midsmallhealthcare_,Healthcare
+230,GLAXO,midsmallhealthcare_,Healthcare
+231,GLENMARK,midsmallhealthcare_,Healthcare
+232,GRANULES,midsmallhealthcare_,Healthcare
+233,IPCALAB,midsmallhealthcare_,Healthcare
+234,JBCHEPHARM,midsmallhealthcare_,Healthcare
+235,JUBLPHARMA,midsmallhealthcare_,Healthcare
+236,KIMS,midsmallhealthcare_,Healthcare
+237,LAURUSLABS,midsmallhealthcare_,Healthcare
+238,MAXHEALTH,midsmallhealthcare_,Healthcare
+239,MEDPLUS,midsmallhealthcare_,Consumer Services
+240,METROPOLIS,midsmallhealthcare_,Healthcare
+241,NATCOPHARM,midsmallhealthcare_,Healthcare
+242,NH,midsmallhealthcare_,Healthcare
+243,PFIZER,midsmallhealthcare_,Healthcare
+244,POLYMED,midsmallhealthcare_,Healthcare
+245,PGHL,midsmallhealthcare_,Healthcare
+246,SANOFI,midsmallhealthcare_,Healthcare
+247,SEQUENT,midsmallhealthcare_,Healthcare
+248,SOLARA,midsmallhealthcare_,Healthcare
+249,STAR,midsmallhealthcare_,Healthcare
+250,SUVENPHAR,midsmallhealthcare_,Healthcare
+251,SYNGENE,midsmallhealthcare_,Healthcare
+252,BSOFT,midsmallitAndtelecom_,Information Technology
+253,COFORGE,midsmallitAndtelecom_,Information Technology
+254,CYIENT,midsmallitAndtelecom_,Information Technology
+255,FSL,midsmallitAndtelecom_,Information Technology
+256,HFCL,midsmallitAndtelecom_,Telecommunication
+257,HAPPSTMNDS,midsmallitAndtelecom_,Information Technology
+258,INTELLECT,midsmallitAndtelecom_,Information Technology
+259,KPITTECH,midsmallitAndtelecom_,Information Technology
+260,LTTS,midsmallitAndtelecom_,Information Technology
+261,MASTEK,midsmallitAndtelecom_,Information Technology
+262,MPHASIS,midsmallitAndtelecom_,Information Technology
+263,OFSS,midsmallitAndtelecom_,Information Technology
+264,PERSISTENT,midsmallitAndtelecom_,Information Technology
+265,ROUTE,midsmallitAndtelecom_,Telecommunication
+266,SONATSOFTW,midsmallitAndtelecom_,Information Technology
+267,STLTECH,midsmallitAndtelecom_,Telecommunication
+268,TATACOMM,midsmallitAndtelecom_,Telecommunication
+269,TATAELXSI,midsmallitAndtelecom_,Information Technology
+270,IDEA,midsmallitAndtelecom_,Telecommunication
+271,ZENSARTECH,midsmallitAndtelecom_,Information Technology
+272,ATGL,oilgas,Oil Gas & Consumable Fuels
+273,AEGISCHEM,oilgas,Oil Gas & Consumable Fuels
+274,BPCL,oilgas,Oil Gas & Consumable Fuels
+275,CASTROLIND,oilgas,Oil Gas & Consumable Fuels
+276,GAIL,oilgas,Oil Gas & Consumable Fuels
+277,GUJGASLTD,oilgas,Oil Gas & Consumable Fuels
+278,GSPL,oilgas,Oil Gas & Consumable Fuels
+279,HINDPETRO,oilgas,Oil Gas & Consumable Fuels
+280,IOC,oilgas,Oil Gas & Consumable Fuels
+281,IGL,oilgas,Oil Gas & Consumable Fuels
+282,MGL,oilgas,Oil Gas & Consumable Fuels
+283,ONGC,oilgas,Oil Gas & Consumable Fuels
+284,OIL,oilgas,Oil Gas & Consumable Fuels
+285,PETRONET,oilgas,Oil Gas & Consumable Fuels
+286,RELIANCE,oilgas,Oil Gas & Consumable Fuels
+287,ABBOTINDIA,pharma,Healthcare
+288,ALKEM,pharma,Healthcare
+289,AUROPHARMA,pharma,Healthcare
+290,BIOCON,pharma,Healthcare
+291,CIPLA,pharma,Healthcare
+292,DIVISLAB,pharma,Healthcare
+293,DRREDDY,pharma,Healthcare
+294,GLAND,pharma,Healthcare
+295,GLAXO,pharma,Healthcare
+296,GLENMARK,pharma,Healthcare
+297,GRANULES,pharma,Healthcare
+298,IPCALAB,pharma,Healthcare
+299,LAURUSLABS,pharma,Healthcare
+300,LUPIN,pharma,Healthcare
+301,NATCOPHARM,pharma,Healthcare
+302,PFIZER,pharma,Healthcare
+303,SANOFI,pharma,Healthcare
+304,SUNPHARMA,pharma,Healthcare
+305,TORNTPHARM,pharma,Healthcare
+306,ZYDUSLIFE,pharma,Healthcare
+307,BANKBARODA,psubank,Financial Services
+308,BANKINDIA,psubank,Financial Services
+309,MAHABANK,psubank,Financial Services
+310,CANBK,psubank,Financial Services
+311,CENTRALBK,psubank,Financial Services
+312,INDIANB,psubank,Financial Services
+313,IOB,psubank,Financial Services
+314,PSB,psubank,Financial Services
+315,PNB,psubank,Financial Services
+316,SBIN,psubank,Financial Services
+317,UCOBANK,psubank,Financial Services
+318,UNIONBANK,psubank,Financial Services
+319,BRIGADE,realty,Realty
+320,DLF,realty,Realty
+321,GODREJPROP,realty,Realty
+322,IBREALEST,realty,Realty
+323,LODHA,realty,Realty
+324,OBEROIRLTY,realty,Realty
+325,PHOENIXLTD,realty,Realty
+326,PRESTIGE,realty,Realty
+327,SOBHA,realty,Realty
+328,SUNTECK,realty,Realty
